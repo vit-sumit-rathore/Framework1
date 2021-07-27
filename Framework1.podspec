@@ -10,7 +10,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "12.0"
   spec.source       = { :git => "https://github.com/vit-sumit-rathore/Framework1.git", :tag => "1.0.0" }
   spec.source_files  = "Framework1"
-  spec.exclude_files = "Classes/Exclude"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
